@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LS_5_Loops/1.0.0": {
+        "runtime": {
+          "LS_5_Loops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LS_5_Loops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
